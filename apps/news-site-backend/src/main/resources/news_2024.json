@@ -1,0 +1,1047 @@
+[
+  {
+    "id": 1,
+    "title": "Donald Trump Wins the U.S. Presidential Election",
+    "author": "John Smith",
+    "tags": [
+      "Politics",
+      "USA",
+      "Election"
+    ],
+    "body": "Donald Trump defeated Democrat Kamala Harris in the 2024 presidential election, marking a significant political comeback.",
+    "timestamp": "2024-07-29T17:43:00"
+  },
+  {
+    "id": 2,
+    "title": "Sweden Officially Joins NATO",
+    "author": "Emma Johansson",
+    "tags": [
+      "International",
+      "NATO",
+      "Sweden"
+    ],
+    "body": "On March 7, 2024, Sweden became the 32nd member of NATO, completing its accession process.",
+    "timestamp": "2024-09-24T04:21:00"
+  },
+  {
+    "id": 3,
+    "title": "Artificial Intelligence Act Passed by European Union",
+    "author": "Liam M\u00fcller",
+    "tags": [
+      "Technology",
+      "AI",
+      "Regulation"
+    ],
+    "body": "The European Union passed the Artificial Intelligence Act on March 13, 2024, establishing a comprehensive legal framework for AI.",
+    "timestamp": "2024-04-10T10:35:00"
+  },
+  {
+    "id": 4,
+    "title": "Francis Scott Key Bridge Collapses in Baltimore",
+    "author": "Ava Davis",
+    "tags": [
+      "Disaster",
+      "Infrastructure",
+      "USA"
+    ],
+    "body": "A container ship collided with the Francis Scott Key Bridge on March 26, 2024, causing its total collapse and resulting in six fatalities.",
+    "timestamp": "2024-02-21T06:40:00"
+  },
+  {
+    "id": 5,
+    "title": "Vladimir Putin Re-elected for Fifth Term",
+    "author": "Nikolai Petrov",
+    "tags": [
+      "Politics",
+      "Russia",
+      "Election"
+    ],
+    "body": "Incumbent Vladimir Putin secured a fifth term in the Russian presidential election held from March 15 to 17, 2024.",
+    "timestamp": "2024-06-21T00:59:00"
+  },
+  {
+    "id": 6,
+    "title": "Israel and Hamas Accused of War Crimes",
+    "author": "Fatima El-Sayed",
+    "tags": [
+      "Middle East",
+      "Conflict",
+      "Human Rights"
+    ],
+    "body": "On June 12, 2024, the UN reported that both Israel and Hamas committed war crimes since October 7, 2023.",
+    "timestamp": "2024-07-27T17:24:00"
+  },
+  {
+    "id": 7,
+    "title": "Julian Assange Freed in US Plea Deal",
+    "author": "Clara Thompson",
+    "tags": [
+      "Law",
+      "International",
+      "Media"
+    ],
+    "body": "WikiLeaks founder Julian Assange left the UK on June 25, 2024, after reaching a plea deal with the US.",
+    "timestamp": "2024-04-30T23:32:00"
+  },
+  {
+    "id": 8,
+    "title": "Spain Wins Euro 2024",
+    "author": "Carlos Ruiz",
+    "tags": [
+      "Sports",
+      "Football",
+      "Europe"
+    ],
+    "body": "Spain defeated England 2-1 on July 14, 2024, to claim their fourth European Championship title.",
+    "timestamp": "2024-10-21T16:46:00"
+  },
+  {
+    "id": 9,
+    "title": "Massive Cyberattack Causes Global IT Outage",
+    "author": "Sophia Li",
+    "tags": [
+      "Technology",
+      "Cybersecurity",
+      "Global"
+    ],
+    "body": "On July 19, 2024, a faulty software update from CrowdStrike led to a global IT outage, affecting millions of systems across airlines, media, and banks.",
+    "timestamp": "2024-07-07T19:10:00"
+  },
+  {
+    "id": 10,
+    "title": "Alexei Navalny Dies in Prison",
+    "author": "Olga Ivanova",
+    "tags": [
+      "Politics",
+      "Russia",
+      "Human Rights"
+    ],
+    "body": "Russian dissident Alexei Navalny died in prison on February 16, 2024, prompting international outcry and condemnation.",
+    "timestamp": "2024-06-11T05:45:00"
+  },
+  {
+    "id": 11,
+    "title": "Tech Giant Announces Revolutionary AI Chip",
+    "author": "Elena Petrova",
+    "tags": [
+      "Health"
+    ],
+    "body": "Experts say this could reshape the future of the industry and how it serves consumers...",
+    "timestamp": "2024-09-14T22:58:00"
+  },
+  {
+    "id": 12,
+    "title": "Stock Markets Surge After Fed Announcement",
+    "author": "David Okafor",
+    "tags": [
+      "Health"
+    ],
+    "body": "The announcement has been met with a mix of optimism and skepticism by the international community...",
+    "timestamp": "2024-02-22T01:20:00"
+  },
+  {
+    "id": 13,
+    "title": "Stock Markets Surge After Fed Announcement",
+    "author": "David Okafor",
+    "tags": [
+      "Disaster"
+    ],
+    "body": "The announcement has been met with a mix of optimism and skepticism by the international community...",
+    "timestamp": "2024-11-21T22:32:00"
+  },
+  {
+    "id": 14,
+    "title": "Record Heatwave Strikes Southern Europe",
+    "author": "Ahmed Khan",
+    "tags": [
+      "Economy"
+    ],
+    "body": "Experts say this could reshape the future of the industry and how it serves consumers...",
+    "timestamp": "2024-04-23T11:40:00"
+  },
+  {
+    "id": 15,
+    "title": "Stock Markets Surge After Fed Announcement",
+    "author": "Jane Doe",
+    "tags": [
+      "Health"
+    ],
+    "body": "The announcement has been met with a mix of optimism and skepticism by the international community...",
+    "timestamp": "2024-10-09T12:52:00"
+  },
+  {
+    "id": 16,
+    "title": "Major Bank Merger Shakes Financial Sector",
+    "author": "David Okafor",
+    "tags": [
+      "Technology",
+      "Space"
+    ],
+    "body": "Experts say this could reshape the future of the industry and how it serves consumers...",
+    "timestamp": "2024-09-18T23:50:00"
+  },
+  {
+    "id": 17,
+    "title": "Tech Giant Announces Revolutionary AI Chip",
+    "author": "Ahmed Khan",
+    "tags": [
+      "Politics"
+    ],
+    "body": "The announcement has been met with a mix of optimism and skepticism by the international community...",
+    "timestamp": "2024-06-22T16:37:00"
+  },
+  {
+    "id": 18,
+    "title": "Major Earthquake Hits Japan",
+    "author": "David Okafor",
+    "tags": [
+      "Environment",
+      "Climate"
+    ],
+    "body": "Officials have confirmed multiple injuries and infrastructure damage in the affected areas...",
+    "timestamp": "2024-10-03T10:33:00"
+  },
+  {
+    "id": 19,
+    "title": "Major Bank Merger Shakes Financial Sector",
+    "author": "Ahmed Khan",
+    "tags": [
+      "Technology",
+      "Space"
+    ],
+    "body": "Officials have confirmed multiple injuries and infrastructure damage in the affected areas...",
+    "timestamp": "2024-11-19T02:12:00"
+  },
+  {
+    "id": 20,
+    "title": "Massive Wildfires in Canada Force Evacuations",
+    "author": "David Okafor",
+    "tags": [
+      "Technology",
+      "Space"
+    ],
+    "body": "Emergency services are responding to the unprecedented crisis as thousands are displaced...",
+    "timestamp": "2024-12-25T12:29:00"
+  },
+  {
+    "id": 21,
+    "title": "Record Heatwave Strikes Southern Europe",
+    "author": "Elena Petrova",
+    "tags": [
+      "Disaster"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-06-21T05:22:00"
+  },
+  {
+    "id": 22,
+    "title": "Major Earthquake Hits Japan",
+    "author": "Ahmed Khan",
+    "tags": [
+      "Health"
+    ],
+    "body": "Officials have confirmed multiple injuries and infrastructure damage in the affected areas...",
+    "timestamp": "2024-02-20T19:12:00"
+  },
+  {
+    "id": 23,
+    "title": "Tech Giant Announces Revolutionary AI Chip",
+    "author": "Lisa Chen",
+    "tags": [
+      "Economy"
+    ],
+    "body": "Experts say this could reshape the future of the industry and how it serves consumers...",
+    "timestamp": "2024-07-08T07:41:00"
+  },
+  {
+    "id": 24,
+    "title": "UN Climate Summit Concludes with New Agreements",
+    "author": "Jane Doe",
+    "tags": [
+      "Environment",
+      "Climate"
+    ],
+    "body": "Experts say this could reshape the future of the industry and how it serves consumers...",
+    "timestamp": "2024-11-01T17:09:00"
+  },
+  {
+    "id": 25,
+    "title": "Tech Giant Announces Revolutionary AI Chip",
+    "author": "Jane Doe",
+    "tags": [
+      "Politics"
+    ],
+    "body": "Officials have confirmed multiple injuries and infrastructure damage in the affected areas...",
+    "timestamp": "2024-10-10T10:47:00"
+  },
+  {
+    "id": 26,
+    "title": "Major Bank Merger Shakes Financial Sector",
+    "author": "Elena Petrova",
+    "tags": [
+      "Environment",
+      "Climate"
+    ],
+    "body": "The announcement has been met with a mix of optimism and skepticism by the international community...",
+    "timestamp": "2024-02-03T21:20:00"
+  },
+  {
+    "id": 27,
+    "title": "Tech Giant Announces Revolutionary AI Chip",
+    "author": "Lisa Chen",
+    "tags": [
+      "Disaster"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-10-24T02:33:00"
+  },
+  {
+    "id": 28,
+    "title": "Major Bank Merger Shakes Financial Sector",
+    "author": "Ahmed Khan",
+    "tags": [
+      "Disaster"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-04-15T11:03:00"
+  },
+  {
+    "id": 29,
+    "title": "Stock Markets Surge After Fed Announcement",
+    "author": "Ahmed Khan",
+    "tags": [
+      "Technology",
+      "Space"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-11-01T22:09:00"
+  },
+  {
+    "id": 30,
+    "title": "Tech Giant Announces Revolutionary AI Chip",
+    "author": "Ahmed Khan",
+    "tags": [
+      "Disaster"
+    ],
+    "body": "Officials have confirmed multiple injuries and infrastructure damage in the affected areas...",
+    "timestamp": "2024-07-20T11:22:00"
+  },
+  {
+    "id": 31,
+    "title": "Massive Wildfires in Canada Force Evacuations",
+    "author": "David Okafor",
+    "tags": [
+      "Economy"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-09-08T06:21:00"
+  },
+  {
+    "id": 32,
+    "title": "Massive Wildfires in Canada Force Evacuations",
+    "author": "David Okafor",
+    "tags": [
+      "Technology",
+      "Space"
+    ],
+    "body": "Emergency services are responding to the unprecedented crisis as thousands are displaced...",
+    "timestamp": "2024-03-14T08:38:00"
+  },
+  {
+    "id": 33,
+    "title": "Massive Wildfires in Canada Force Evacuations",
+    "author": "Elena Petrova",
+    "tags": [
+      "Environment",
+      "Climate"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-07-01T00:18:00"
+  },
+  {
+    "id": 34,
+    "title": "Global Water Shortages Raise Alarm",
+    "author": "Jane Doe",
+    "tags": [
+      "Environment",
+      "Climate"
+    ],
+    "body": "Experts say this could reshape the future of the industry and how it serves consumers...",
+    "timestamp": "2024-11-09T11:56:00"
+  },
+  {
+    "id": 35,
+    "title": "Major Bank Merger Shakes Financial Sector",
+    "author": "Elena Petrova",
+    "tags": [
+      "Disaster"
+    ],
+    "body": "Officials have confirmed multiple injuries and infrastructure damage in the affected areas...",
+    "timestamp": "2024-08-17T10:18:00"
+  },
+  {
+    "id": 36,
+    "title": "Massive Wildfires in Canada Force Evacuations",
+    "author": "Ahmed Khan",
+    "tags": [
+      "Technology",
+      "Space"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-01-27T17:03:00"
+  },
+  {
+    "id": 37,
+    "title": "Breakthrough in Cancer Treatment Reported",
+    "author": "Ahmed Khan",
+    "tags": [
+      "Disaster"
+    ],
+    "body": "Officials have confirmed multiple injuries and infrastructure damage in the affected areas...",
+    "timestamp": "2024-04-19T03:22:00"
+  },
+  {
+    "id": 38,
+    "title": "Global Water Shortages Raise Alarm",
+    "author": "Lisa Chen",
+    "tags": [
+      "Disaster"
+    ],
+    "body": "Experts say this could reshape the future of the industry and how it serves consumers...",
+    "timestamp": "2024-01-31T23:32:00"
+  },
+  {
+    "id": 39,
+    "title": "Record Heatwave Strikes Southern Europe",
+    "author": "Elena Petrova",
+    "tags": [
+      "Disaster"
+    ],
+    "body": "The announcement has been met with a mix of optimism and skepticism by the international community...",
+    "timestamp": "2024-04-06T04:58:00"
+  },
+  {
+    "id": 40,
+    "title": "Major Bank Merger Shakes Financial Sector",
+    "author": "Ahmed Khan",
+    "tags": [
+      "Economy"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-02-05T00:54:00"
+  },
+  {
+    "id": 41,
+    "title": "UN Climate Summit Concludes with New Agreements",
+    "author": "Jane Doe",
+    "tags": [
+      "Health"
+    ],
+    "body": "Emergency services are responding to the unprecedented crisis as thousands are displaced...",
+    "timestamp": "2024-01-27T16:01:00"
+  },
+  {
+    "id": 42,
+    "title": "UN Climate Summit Concludes with New Agreements",
+    "author": "Jane Doe",
+    "tags": [
+      "Health"
+    ],
+    "body": "Officials have confirmed multiple injuries and infrastructure damage in the affected areas...",
+    "timestamp": "2024-05-01T14:06:00"
+  },
+  {
+    "id": 43,
+    "title": "Record Heatwave Strikes Southern Europe",
+    "author": "Jane Doe",
+    "tags": [
+      "Health"
+    ],
+    "body": "The announcement has been met with a mix of optimism and skepticism by the international community...",
+    "timestamp": "2024-08-05T23:45:00"
+  },
+  {
+    "id": 44,
+    "title": "Major Bank Merger Shakes Financial Sector",
+    "author": "Lisa Chen",
+    "tags": [
+      "Health"
+    ],
+    "body": "Officials have confirmed multiple injuries and infrastructure damage in the affected areas...",
+    "timestamp": "2024-10-01T17:02:00"
+  },
+  {
+    "id": 45,
+    "title": "India Launches Chandrayaan-4 Mission",
+    "author": "Ahmed Khan",
+    "tags": [
+      "Economy"
+    ],
+    "body": "Emergency services are responding to the unprecedented crisis as thousands are displaced...",
+    "timestamp": "2024-10-17T12:22:00"
+  },
+  {
+    "id": 46,
+    "title": "Tech Giant Announces Revolutionary AI Chip",
+    "author": "David Okafor",
+    "tags": [
+      "Health"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-09-10T22:02:00"
+  },
+  {
+    "id": 47,
+    "title": "Stock Markets Surge After Fed Announcement",
+    "author": "Elena Petrova",
+    "tags": [
+      "Disaster"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-12-10T22:57:00"
+  },
+  {
+    "id": 48,
+    "title": "Stock Markets Surge After Fed Announcement",
+    "author": "Lisa Chen",
+    "tags": [
+      "Health"
+    ],
+    "body": "Emergency services are responding to the unprecedented crisis as thousands are displaced...",
+    "timestamp": "2024-08-11T16:17:00"
+  },
+  {
+    "id": 49,
+    "title": "Breakthrough in Cancer Treatment Reported",
+    "author": "Jane Doe",
+    "tags": [
+      "Disaster"
+    ],
+    "body": "Emergency services are responding to the unprecedented crisis as thousands are displaced...",
+    "timestamp": "2024-02-13T15:33:00"
+  },
+  {
+    "id": 50,
+    "title": "Record Heatwave Strikes Southern Europe",
+    "author": "David Okafor",
+    "tags": [
+      "Economy"
+    ],
+    "body": "Emergency services are responding to the unprecedented crisis as thousands are displaced...",
+    "timestamp": "2024-05-01T03:20:00"
+  },
+  {
+    "id": 51,
+    "title": "Major Bank Merger Shakes Financial Sector",
+    "author": "Elena Petrova",
+    "tags": [
+      "Disaster"
+    ],
+    "body": "Officials have confirmed multiple injuries and infrastructure damage in the affected areas...",
+    "timestamp": "2024-08-08T11:42:00"
+  },
+  {
+    "id": 52,
+    "title": "Record Heatwave Strikes Southern Europe",
+    "author": "Ahmed Khan",
+    "tags": [
+      "Environment",
+      "Climate"
+    ],
+    "body": "Officials have confirmed multiple injuries and infrastructure damage in the affected areas...",
+    "timestamp": "2024-09-26T23:58:00"
+  },
+  {
+    "id": 53,
+    "title": "Massive Wildfires in Canada Force Evacuations",
+    "author": "Lisa Chen",
+    "tags": [
+      "Economy"
+    ],
+    "body": "Emergency services are responding to the unprecedented crisis as thousands are displaced...",
+    "timestamp": "2024-01-18T11:35:00"
+  },
+  {
+    "id": 54,
+    "title": "Major Bank Merger Shakes Financial Sector",
+    "author": "Jane Doe",
+    "tags": [
+      "Politics"
+    ],
+    "body": "Experts say this could reshape the future of the industry and how it serves consumers...",
+    "timestamp": "2024-01-30T14:51:00"
+  },
+  {
+    "id": 55,
+    "title": "Massive Wildfires in Canada Force Evacuations",
+    "author": "Jane Doe",
+    "tags": [
+      "Economy"
+    ],
+    "body": "Officials have confirmed multiple injuries and infrastructure damage in the affected areas...",
+    "timestamp": "2024-01-26T17:22:00"
+  },
+  {
+    "id": 56,
+    "title": "Record Heatwave Strikes Southern Europe",
+    "author": "Elena Petrova",
+    "tags": [
+      "Economy"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-12-10T17:39:00"
+  },
+  {
+    "id": 57,
+    "title": "Breakthrough in Cancer Treatment Reported",
+    "author": "Elena Petrova",
+    "tags": [
+      "Health"
+    ],
+    "body": "Experts say this could reshape the future of the industry and how it serves consumers...",
+    "timestamp": "2024-11-11T00:43:00"
+  },
+  {
+    "id": 58,
+    "title": "Breakthrough in Cancer Treatment Reported",
+    "author": "Jane Doe",
+    "tags": [
+      "Environment",
+      "Climate"
+    ],
+    "body": "Officials have confirmed multiple injuries and infrastructure damage in the affected areas...",
+    "timestamp": "2024-04-15T23:11:00"
+  },
+  {
+    "id": 59,
+    "title": "Stock Markets Surge After Fed Announcement",
+    "author": "David Okafor",
+    "tags": [
+      "Environment",
+      "Climate"
+    ],
+    "body": "Officials have confirmed multiple injuries and infrastructure damage in the affected areas...",
+    "timestamp": "2024-07-14T00:33:00"
+  },
+  {
+    "id": 60,
+    "title": "Global Water Shortages Raise Alarm",
+    "author": "Lisa Chen",
+    "tags": [
+      "Disaster"
+    ],
+    "body": "Emergency services are responding to the unprecedented crisis as thousands are displaced...",
+    "timestamp": "2024-07-17T00:42:00"
+  },
+  {
+    "id": 61,
+    "title": "UN Climate Summit Concludes with New Agreements",
+    "author": "David Okafor",
+    "tags": [
+      "Technology",
+      "Space"
+    ],
+    "body": "Emergency services are responding to the unprecedented crisis as thousands are displaced...",
+    "timestamp": "2024-09-27T06:05:00"
+  },
+  {
+    "id": 62,
+    "title": "Breakthrough in Cancer Treatment Reported",
+    "author": "Ahmed Khan",
+    "tags": [
+      "Health"
+    ],
+    "body": "Experts say this could reshape the future of the industry and how it serves consumers...",
+    "timestamp": "2024-04-25T06:11:00"
+  },
+  {
+    "id": 63,
+    "title": "Tech Giant Announces Revolutionary AI Chip",
+    "author": "Jane Doe",
+    "tags": [
+      "Health"
+    ],
+    "body": "Officials have confirmed multiple injuries and infrastructure damage in the affected areas...",
+    "timestamp": "2024-08-22T04:54:00"
+  },
+  {
+    "id": 64,
+    "title": "Massive Wildfires in Canada Force Evacuations",
+    "author": "Elena Petrova",
+    "tags": [
+      "Disaster"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-11-15T18:38:00"
+  },
+  {
+    "id": 65,
+    "title": "Record Heatwave Strikes Southern Europe",
+    "author": "Jane Doe",
+    "tags": [
+      "Health"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-05-14T03:30:00"
+  },
+  {
+    "id": 66,
+    "title": "Massive Wildfires in Canada Force Evacuations",
+    "author": "David Okafor",
+    "tags": [
+      "Economy"
+    ],
+    "body": "Experts say this could reshape the future of the industry and how it serves consumers...",
+    "timestamp": "2024-05-07T10:57:00"
+  },
+  {
+    "id": 67,
+    "title": "India Launches Chandrayaan-4 Mission",
+    "author": "Elena Petrova",
+    "tags": [
+      "Economy"
+    ],
+    "body": "Officials have confirmed multiple injuries and infrastructure damage in the affected areas...",
+    "timestamp": "2024-08-23T15:18:00"
+  },
+  {
+    "id": 68,
+    "title": "Stock Markets Surge After Fed Announcement",
+    "author": "Elena Petrova",
+    "tags": [
+      "Economy"
+    ],
+    "body": "Experts say this could reshape the future of the industry and how it serves consumers...",
+    "timestamp": "2024-03-19T09:01:00"
+  },
+  {
+    "id": 69,
+    "title": "UN Climate Summit Concludes with New Agreements",
+    "author": "Ahmed Khan",
+    "tags": [
+      "Economy"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-10-01T02:06:00"
+  },
+  {
+    "id": 70,
+    "title": "Tech Giant Announces Revolutionary AI Chip",
+    "author": "Ahmed Khan",
+    "tags": [
+      "Health"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-04-02T09:01:00"
+  },
+  {
+    "id": 71,
+    "title": "Major Bank Merger Shakes Financial Sector",
+    "author": "Lisa Chen",
+    "tags": [
+      "Economy"
+    ],
+    "body": "Emergency services are responding to the unprecedented crisis as thousands are displaced...",
+    "timestamp": "2024-03-09T14:27:00"
+  },
+  {
+    "id": 72,
+    "title": "Stock Markets Surge After Fed Announcement",
+    "author": "Lisa Chen",
+    "tags": [
+      "Environment",
+      "Climate"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-11-20T02:56:00"
+  },
+  {
+    "id": 73,
+    "title": "UN Climate Summit Concludes with New Agreements",
+    "author": "Lisa Chen",
+    "tags": [
+      "Health"
+    ],
+    "body": "The announcement has been met with a mix of optimism and skepticism by the international community...",
+    "timestamp": "2024-09-14T09:46:00"
+  },
+  {
+    "id": 74,
+    "title": "Stock Markets Surge After Fed Announcement",
+    "author": "Elena Petrova",
+    "tags": [
+      "Politics"
+    ],
+    "body": "Officials have confirmed multiple injuries and infrastructure damage in the affected areas...",
+    "timestamp": "2024-02-10T17:08:00"
+  },
+  {
+    "id": 75,
+    "title": "Record Heatwave Strikes Southern Europe",
+    "author": "Jane Doe",
+    "tags": [
+      "Politics"
+    ],
+    "body": "Emergency services are responding to the unprecedented crisis as thousands are displaced...",
+    "timestamp": "2024-11-05T04:23:00"
+  },
+  {
+    "id": 76,
+    "title": "Tech Giant Announces Revolutionary AI Chip",
+    "author": "Ahmed Khan",
+    "tags": [
+      "Environment",
+      "Climate"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-07-26T12:10:00"
+  },
+  {
+    "id": 77,
+    "title": "Tech Giant Announces Revolutionary AI Chip",
+    "author": "Jane Doe",
+    "tags": [
+      "Technology",
+      "Space"
+    ],
+    "body": "Emergency services are responding to the unprecedented crisis as thousands are displaced...",
+    "timestamp": "2024-04-07T08:20:00"
+  },
+  {
+    "id": 78,
+    "title": "Major Bank Merger Shakes Financial Sector",
+    "author": "Jane Doe",
+    "tags": [
+      "Economy"
+    ],
+    "body": "Emergency services are responding to the unprecedented crisis as thousands are displaced...",
+    "timestamp": "2024-11-08T07:18:00"
+  },
+  {
+    "id": 79,
+    "title": "Tech Giant Announces Revolutionary AI Chip",
+    "author": "David Okafor",
+    "tags": [
+      "Economy"
+    ],
+    "body": "The announcement has been met with a mix of optimism and skepticism by the international community...",
+    "timestamp": "2024-05-22T02:08:00"
+  },
+  {
+    "id": 80,
+    "title": "Record Heatwave Strikes Southern Europe",
+    "author": "Elena Petrova",
+    "tags": [
+      "Economy"
+    ],
+    "body": "Emergency services are responding to the unprecedented crisis as thousands are displaced...",
+    "timestamp": "2024-05-04T19:45:00"
+  },
+  {
+    "id": 81,
+    "title": "Massive Wildfires in Canada Force Evacuations",
+    "author": "David Okafor",
+    "tags": [
+      "Environment",
+      "Climate"
+    ],
+    "body": "Experts say this could reshape the future of the industry and how it serves consumers...",
+    "timestamp": "2024-12-03T02:13:00"
+  },
+  {
+    "id": 82,
+    "title": "Major Bank Merger Shakes Financial Sector",
+    "author": "Ahmed Khan",
+    "tags": [
+      "Environment",
+      "Climate"
+    ],
+    "body": "The announcement has been met with a mix of optimism and skepticism by the international community...",
+    "timestamp": "2024-08-21T23:30:00"
+  },
+  {
+    "id": 83,
+    "title": "Record Heatwave Strikes Southern Europe",
+    "author": "Jane Doe",
+    "tags": [
+      "Disaster"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-02-27T15:43:00"
+  },
+  {
+    "id": 84,
+    "title": "Stock Markets Surge After Fed Announcement",
+    "author": "Ahmed Khan",
+    "tags": [
+      "Health"
+    ],
+    "body": "Experts say this could reshape the future of the industry and how it serves consumers...",
+    "timestamp": "2024-04-21T09:45:00"
+  },
+  {
+    "id": 85,
+    "title": "Record Heatwave Strikes Southern Europe",
+    "author": "Jane Doe",
+    "tags": [
+      "Disaster"
+    ],
+    "body": "Experts say this could reshape the future of the industry and how it serves consumers...",
+    "timestamp": "2024-03-06T19:36:00"
+  },
+  {
+    "id": 86,
+    "title": "Record Heatwave Strikes Southern Europe",
+    "author": "Ahmed Khan",
+    "tags": [
+      "Politics"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-02-07T02:21:00"
+  },
+  {
+    "id": 87,
+    "title": "India Launches Chandrayaan-4 Mission",
+    "author": "Lisa Chen",
+    "tags": [
+      "Environment",
+      "Climate"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-10-16T20:45:00"
+  },
+  {
+    "id": 88,
+    "title": "Breakthrough in Cancer Treatment Reported",
+    "author": "Elena Petrova",
+    "tags": [
+      "Economy"
+    ],
+    "body": "Emergency services are responding to the unprecedented crisis as thousands are displaced...",
+    "timestamp": "2024-05-29T16:47:00"
+  },
+  {
+    "id": 89,
+    "title": "Breakthrough in Cancer Treatment Reported",
+    "author": "Elena Petrova",
+    "tags": [
+      "Health"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-11-15T16:37:00"
+  },
+  {
+    "id": 90,
+    "title": "Record Heatwave Strikes Southern Europe",
+    "author": "Elena Petrova",
+    "tags": [
+      "Politics"
+    ],
+    "body": "Emergency services are responding to the unprecedented crisis as thousands are displaced...",
+    "timestamp": "2024-01-25T03:12:00"
+  },
+  {
+    "id": 91,
+    "title": "UN Climate Summit Concludes with New Agreements",
+    "author": "David Okafor",
+    "tags": [
+      "Politics"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-03-27T10:30:00"
+  },
+  {
+    "id": 92,
+    "title": "UN Climate Summit Concludes with New Agreements",
+    "author": "Lisa Chen",
+    "tags": [
+      "Health"
+    ],
+    "body": "The announcement has been met with a mix of optimism and skepticism by the international community...",
+    "timestamp": "2024-03-20T22:12:00"
+  },
+  {
+    "id": 93,
+    "title": "Tech Giant Announces Revolutionary AI Chip",
+    "author": "Jane Doe",
+    "tags": [
+      "Economy"
+    ],
+    "body": "Emergency services are responding to the unprecedented crisis as thousands are displaced...",
+    "timestamp": "2024-08-09T06:14:00"
+  },
+  {
+    "id": 94,
+    "title": "India Launches Chandrayaan-4 Mission",
+    "author": "Lisa Chen",
+    "tags": [
+      "Politics"
+    ],
+    "body": "Emergency services are responding to the unprecedented crisis as thousands are displaced...",
+    "timestamp": "2024-06-26T23:44:00"
+  },
+  {
+    "id": 95,
+    "title": "Massive Wildfires in Canada Force Evacuations",
+    "author": "Lisa Chen",
+    "tags": [
+      "Politics"
+    ],
+    "body": "Experts say this could reshape the future of the industry and how it serves consumers...",
+    "timestamp": "2024-10-21T15:54:00"
+  },
+  {
+    "id": 96,
+    "title": "Major Bank Merger Shakes Financial Sector",
+    "author": "Ahmed Khan",
+    "tags": [
+      "Environment",
+      "Climate"
+    ],
+    "body": "In a significant development, global leaders have come together to address rising concerns...",
+    "timestamp": "2024-08-23T02:20:00"
+  },
+  {
+    "id": 97,
+    "title": "UN Climate Summit Concludes with New Agreements",
+    "author": "Lisa Chen",
+    "tags": [
+      "Technology",
+      "Space"
+    ],
+    "body": "Officials have confirmed multiple injuries and infrastructure damage in the affected areas...",
+    "timestamp": "2024-03-09T03:53:00"
+  },
+  {
+    "id": 98,
+    "title": "Massive Wildfires in Canada Force Evacuations",
+    "author": "Lisa Chen",
+    "tags": [
+      "Technology",
+      "Space"
+    ],
+    "body": "The announcement has been met with a mix of optimism and skepticism by the international community...",
+    "timestamp": "2024-08-02T15:49:00"
+  },
+  {
+    "id": 99,
+    "title": "Massive Wildfires in Canada Force Evacuations",
+    "author": "Jane Doe",
+    "tags": [
+      "Environment",
+      "Climate"
+    ],
+    "body": "Emergency services are responding to the unprecedented crisis as thousands are displaced...",
+    "timestamp": "2024-10-25T22:44:00"
+  },
+  {
+    "id": 100,
+    "title": "India Launches Chandrayaan-4 Mission",
+    "author": "Ahmed Khan",
+    "tags": [
+      "Economy"
+    ],
+    "body": "Emergency services are responding to the unprecedented crisis as thousands are displaced...",
+    "timestamp": "2024-03-07T01:04:00"
+  }
+]
